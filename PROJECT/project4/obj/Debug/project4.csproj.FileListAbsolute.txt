@@ -1,0 +1,7 @@
+D:\csharp\PROJECT\project4\bin\Debug\project4.exe.config
+D:\csharp\PROJECT\project4\bin\Debug\project4.exe
+D:\csharp\PROJECT\project4\bin\Debug\project4.pdb
+D:\csharp\PROJECT\project4\obj\Debug\project4.csproj.CoreCompileInputs.cache
+D:\csharp\PROJECT\project4\obj\Debug\project4.exe
+D:\csharp\PROJECT\project4\obj\Debug\project4.pdb
+D:\csharp\PROJECT\project4\obj\Debug\project4.csprojAssemblyReference.cache

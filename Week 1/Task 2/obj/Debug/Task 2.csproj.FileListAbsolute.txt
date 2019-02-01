@@ -1,0 +1,6 @@
+C:\Users\Максат Тилеуов\source\repos\Week 1\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Максат Тилеуов\source\repos\Week 1\Task 2\bin\Debug\Task 2.exe
+C:\Users\Максат Тилеуов\source\repos\Week 1\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Максат Тилеуов\source\repos\Week 1\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Максат Тилеуов\source\repos\Week 1\Task 2\obj\Debug\Task 2.exe
+C:\Users\Максат Тилеуов\source\repos\Week 1\Task 2\obj\Debug\Task 2.pdb
