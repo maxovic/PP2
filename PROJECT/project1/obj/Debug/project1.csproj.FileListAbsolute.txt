@@ -1,7 +1,0 @@
-D:\csharp\PROJECT\project1\bin\Debug\project1.exe.config
-D:\csharp\PROJECT\project1\bin\Debug\project1.exe
-D:\csharp\PROJECT\project1\bin\Debug\project1.pdb
-D:\csharp\PROJECT\project1\obj\Debug\project1.csprojAssemblyReference.cache
-D:\csharp\PROJECT\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
-D:\csharp\PROJECT\project1\obj\Debug\project1.exe
-D:\csharp\PROJECT\project1\obj\Debug\project1.pdb
