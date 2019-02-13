@@ -5,3 +5,10 @@ C:\Users\Максат Тилеуов\source\repos\Week 2\Task 1\obj\Debug\Task 1
 C:\Users\Максат Тилеуов\source\repos\Week 2\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
 C:\Users\Максат Тилеуов\source\repos\Week 2\Task 1\obj\Debug\Task 1.exe
 C:\Users\Максат Тилеуов\source\repos\Week 2\Task 1\obj\Debug\Task 1.pdb
+C:\git\PP2\Week 2\Task 1\bin\Debug\Task 1.exe.config
+C:\git\PP2\Week 2\Task 1\bin\Debug\Task 1.exe
+C:\git\PP2\Week 2\Task 1\bin\Debug\Task 1.pdb
+C:\git\PP2\Week 2\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\git\PP2\Week 2\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\git\PP2\Week 2\Task 1\obj\Debug\Task 1.exe
+C:\git\PP2\Week 2\Task 1\obj\Debug\Task 1.pdb

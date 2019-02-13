@@ -6,26 +6,19 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Task_4
-{
+{  
     class Program
     {
         static void Main(string[] args)
         {
-            TextWriter tw = new StreamWriter(@"C:/git/PP2/Week 2/path/info.txt");
-            string path1 = @"C:/git/PP2/Week 2/path/info.txt";
-            string path2 = @"C:/git/PP2/Week 2/path1/info.txt";
-            try
-            {
-                File.Copy(path1, path2);
-            }
-            catch (Exception)
-            {
-                File.Delete(path2);
-                File.Copy(path1, path2);
-            }
-            tw.Close();
-            File.Delete(path1);
-            Console.WriteLine("The file was created, moved and deleted from dir 'path' successfully");
+            string path = @"C:/git/PP2/Week 2/path/info.txt";
+            string path1 = @"C:/git/PP2/Week 2/path1/info.txt";
+            FileStream FS = new FileStream(path, FileMode.Create, FileAccess.Write); // creating a new file;
+            FS.Close(); // Closing the FileStream in order to give control to other functions
+            File.Copy(path, path1, true); //Copies a file from path1 to path2
+            File.Delete(path); // Deletes a file from path
+
         }
+
     }
 }

@@ -11,12 +11,14 @@ namespace Task_2
         static void Main(string[] args)
         {
             FileStream FS = new FileStream(@"C:/git/PP2/Week 2/input.txt", FileMode.Open, FileAccess.Read);
+            // FileStream connects the file "input.txt" to its variable "FS";
             StreamReader SR = new StreamReader(FS);
-            string[] numbs = SR.ReadLine().Split(' ');
+            // StreamReader saves all content from FS(input.txt)
+            string[] numbs = SR.ReadLine().Split(' '); // split function helps us to separate the whole string into substrings, then gives the substrings to array;
             List<int> list = new List<int>();
             foreach(var c in numbs)
             {
-                int x = int.Parse(c);
+                int x = int.Parse(c); // int.Parse = Convert to int
                 int ok = 1;
                 for(int i = 2; i < x; i++)
                 {
@@ -32,10 +34,13 @@ namespace Task_2
                 }
             }
             FileStream FSS = new FileStream(@"C:/git/PP2/Week 2/output.txt", FileMode.Create, FileAccess.Write);
+            // Failstream connects "FSS" to "output.txt"
             StreamWriter SW = new StreamWriter(FSS);
-            for(int i = 0; i < list.Count; i++)
+            //StreamWriter connects to FSS(output.txt)
+            for (int i = 0; i < list.Count; i++)
             {
                 SW.Write(list[i] + " ");
+                Console.Write(list[i] + " ");
             }
             SR.Close();
             SW.Close();
