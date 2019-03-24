@@ -1,0 +1,15 @@
+﻿
+
+
+
+
+
+
+
+
+            YOU LOSE :(
+			  
+	       press: 
+	     R to restart 
+	     Any key to quit;
+												 
